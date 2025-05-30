@@ -1,0 +1,30 @@
+.publication-entry {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1.5em;
+    border-bottom: 1px solid #444;
+    padding-bottom: 1em;
+  }
+  
+  .pub-label {
+    background-color: #555;
+    color: white;
+    font-weight: bold;
+    padding: 3px 8px;
+    border-radius: 4px;
+    margin-right: 1em;
+    white-space: nowrap;
+  }
+  
+  .pub-content {
+    flex: 1;
+  }
+  
+  .pub-year {
+    font-size: 1.2em;
+    color: #999;
+    margin-left: 1em;
+    white-space: nowrap;
+  }
+  
