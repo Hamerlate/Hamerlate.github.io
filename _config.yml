@@ -266,6 +266,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  - scope:
+      path: ""
+    values:
+      show_pagination: false
   # _portfolio
   # - scope:
   #     path: ""
