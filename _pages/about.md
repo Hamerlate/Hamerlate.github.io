@@ -17,6 +17,11 @@ I’m broadly interested in **ML hardware and systems**, particularly in **GPU m
 
 Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 
+---
+
+## 📰 News
+
+- **June 2025** Presented [LUT Tensor Core](https://dl.acm.org/doi/abs/10.1145/3695053.3731057) at ISCA'25. [Slides](/files/LUT_Tensor_Core_ISCA_Slides.pdf)
 
 ---
 
