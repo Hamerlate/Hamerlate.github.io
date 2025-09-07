@@ -1,6 +1,6 @@
 - title: "LUT Tensor Core: A Software-Hardware Co-Design for LUT-Based Low-Bit LLM Inference"
   venue_short: "ISCA"
-  venue_full: "The 52nd International Symposium on Computer Architecture (ISCA ’25), 2025"
+  venue_full: "The 52nd International Symposium on Computer Architecture (ISCA'25), 2025"
   authors: "<strong>Zhiwen Mo</strong>, Lei Wang, Jianyu Wei, Zhichen Zeng, Shijie Cao, Lingxiao Ma, Naifeng Jing, Ting Cao, Jilong Xue, Fan Yang, Mao Yang"
   year: 2025
 
@@ -12,8 +12,14 @@
 
 - title: "PipeThreader: Software-Defined Pipelining for Efficient DNN Execution"
   venue_short: "OSDI"
-  venue_full: "The 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI ’25), 2025"
+  venue_full: "The 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI'25), 2025"
   authors: "Yu Cheng, Lei Wang, Yining Shi, and Yuqing Xia, Lingxiao Ma, Jilong Xue, Yang Wang, <strong>Zhiwen Mo</strong>, Feiyang Chen, Fan Yang, Mao Yang, Zhi Yang"
+  year: 2025
+
+- title: "Democratizing Agentic AI with Fast Test-Time Scaling on the Edge"
+  venue_short: "arXiv"
+  venue_full: "arXiv preprint arXiv:2509.00195, 2025"
+  authors: "Hao (Mark) Chen, <strong>Zhiwen Mo</strong>, Guanxi Lu, Shuang Liang, Lingxiao Ma, Wayne Luk, Hongxiang Fan"
   year: 2025
 
 - title: "TileLang: A Composable Tiled Programming Model for AI Systems"
@@ -25,11 +31,11 @@
 - title: "Rethinking Optimal Verification Granularity for Compute-Efficient Test-Time Scaling"
   venue_short: "arXiv"
   venue_full: "arXiv preprint arXiv:2505.11730, 2025"
-  authors: "Hao Mark Chen, Guanxi Lu, Yasuyuki Okoshi, <strong>Zhiwen Mo</strong>, Masato Motomura, Hongxiang Fan"
+  authors: "Hao (Mark) Chen, Guanxi Lu, Yasuyuki Okoshi, <strong>Zhiwen Mo</strong>, Masato Motomura, Hongxiang Fan"
   year: 2025
 
 - title: "Enabling Multiple Tensor-wise Operator Fusion for Transformer Models on Spatial Accelerators"
   venue_short: "DAC"
-  venue_full: "The 62nd ACM/IEEE Design Automation Conference (DAC ’24), 2024"
+  venue_full: "The 62nd ACM/IEEE Design Automation Conference (DAC'24), 2024"
   authors: "Lei Xu, <strong>Zhiwen Mo</strong>, Qin Wang, Jianfei Jiang, Naifeng Jing"
   year: 2024
