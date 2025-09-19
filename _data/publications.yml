@@ -29,8 +29,8 @@
   year: 2025
 
 - title: "Rethinking Optimal Verification Granularity for Compute-Efficient Test-Time Scaling"
-  venue_short: "arXiv"
-  venue_full: "arXiv preprint arXiv:2505.11730, 2025"
+  venue_short: "NIPS"
+  venue_full: "The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NIPS'25), 2025"
   authors: "Hao (Mark) Chen, Guanxi Lu, Yasuyuki Okoshi, <strong>Zhiwen Mo</strong>, Masato Motomura, Hongxiang Fan"
   year: 2025
 
