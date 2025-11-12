@@ -195,3 +195,20 @@ Aside from Computer Science:
 ---
 
 *Thanks for stopping by!*
+
+<!-- <div style="text-align:center; margin-top:16px;">
+  <img src="/images/cyrene.png" alt="Cyrene" style="max-width: 560px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,.08);" />
+  <div style="color:#777; font-size: 0.9em; margin-top: 6px;">Oh Stay True</div>
+</div> -->
+
+
+<div style="text-align:center; margin: 24px auto; padding: 0 12px;">
+  <img
+    src="/images/cyrene.png"
+    alt="Cyrene"
+    style="display: block; width: 100%; max-width: 560px; height: auto; margin: 8px auto 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,.08);"
+  />
+  <div style="color:#777; font-size: 0.9em; margin-top: 8px; text-align:center;">
+  Cyrene from HSR.<br>
+  </div>
+</div>
