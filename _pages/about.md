@@ -117,7 +117,8 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
   line-height: 1.4;
 }
 .pub-venue {
-  min-width: 70px;
+  width: 80px;
+  flex: 0 0 80px;
   font-weight: bold;
   color: #fff;
   background: #444;
@@ -127,7 +128,6 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
 }
 .pub-content {
   flex: 1;
@@ -144,7 +144,7 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 </style>
 
 <div>
-{% assign top_pubs = site.data.publications | slice: 0, 3 %}
+{% assign top_pubs = site.data.publications | where: "featured", true %}
 {% for pub in top_pubs %}
   <div class="pub-entry">
     <div class="pub-venue">

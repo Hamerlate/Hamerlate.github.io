@@ -16,7 +16,8 @@ share: false
   line-height: 1.4;
 }
 .pub-venue {
-  min-width: 70px;
+  width: 80px;
+  flex: 0 0 80px;
   font-weight: bold;
   color: #fff;
   background: #444;
@@ -26,7 +27,6 @@ share: false
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
 }
 .pub-content {
   flex: 1;

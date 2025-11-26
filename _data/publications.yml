@@ -3,30 +3,41 @@
   venue_full: "The 52nd International Symposium on Computer Architecture (ISCA'25), 2025"
   authors: "<strong>Zhiwen Mo</strong>, Lei Wang, Jianyu Wei, Zhichen Zeng, Shijie Cao, Lingxiao Ma, Naifeng Jing, Ting Cao, Jilong Xue, Fan Yang, Mao Yang"
   year: 2025
+  featured: true
 
 - title: "A GPU Kernel Research Project"
   venue_short: "Internal"
   venue_full: "Research in progress, 2025"
   authors: "<strong>Zhiwen Mo</strong>, et al."
   year: 2025
+  featured: true
+
+- title: "A 3D-Stacked DRAM Architecture Research Project"
+  venue_short: "Internal"
+  venue_full: "Research in progress, 2025"
+  authors: "<strong>Zhiwen Mo</strong>, et al."
+  year: 2025
+
+- title: "Democratizing Agentic AI with Fast Test-Time Scaling on the Edge"
+  venue_short: "ASPLOS"
+  venue_full: "The31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'26), 2026"
+  authors: "Hao (Mark) Chen, <strong>Zhiwen Mo</strong>, Guanxi Lu, Shuang Liang, Lingxiao Ma, Wayne Luk, Hongxiang Fan"
+  year: 2026
+  featured: true
 
 - title: "PipeThreader: Software-Defined Pipelining for Efficient DNN Execution"
   venue_short: "OSDI"
   venue_full: "The 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI'25), 2025"
   authors: "Yu Cheng, Lei Wang, Yining Shi, and Yuqing Xia, Lingxiao Ma, Jilong Xue, Yang Wang, <strong>Zhiwen Mo</strong>, Feiyang Chen, Fan Yang, Mao Yang, Zhi Yang"
   year: 2025
-
-- title: "Democratizing Agentic AI with Fast Test-Time Scaling on the Edge"
-  venue_short: "arXiv"
-  venue_full: "arXiv preprint arXiv:2509.00195, 2025"
-  authors: "Hao (Mark) Chen, <strong>Zhiwen Mo</strong>, Guanxi Lu, Shuang Liang, Lingxiao Ma, Wayne Luk, Hongxiang Fan"
-  year: 2025
+  featured: true
 
 - title: "TileLang: A Composable Tiled Programming Model for AI Systems"
   venue_short: "arXiv"
   venue_full: "arXiv preprint arXiv:2504.17577, 2025"
   authors: "Lei Wang, Yu Cheng, Yining Shi, Zhengju Tang, <strong>Zhiwen Mo</strong>, Wenhao Xie, Lingxiao Ma, Yuqing Xia, Jilong Xue, Fan Yang, Zhi Yang"
   year: 2025
+  featured: true
 
 - title: "Rethinking Optimal Verification Granularity for Compute-Efficient Test-Time Scaling"
   venue_short: "NIPS"
