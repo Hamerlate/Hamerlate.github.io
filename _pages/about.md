@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m **Zhiwen Mo (莫志文)**, a first-year PhD student in the Department of Computing at [Imperial College London](https://www.imperial.ac.uk/), co-advised by [Dr. Hongxiang Fan](https://os-hxfan.github.io/) and [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl/). My PhD is funded by the [ARIA Scaling Compute](https://www.aria.org.uk/opportunity-spaces/nature-computes-better/scaling-compute/) project via UKRI.
+Hi! I’m **Zhiwen Mo (莫志文)**, a first-year PhD student in the Department of Computing at [Imperial College London](https://www.imperial.ac.uk/), co-advised by [Dr. Hongxiang Fan](https://os-hxfan.github.io/) and [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl/). My PhD is funded by the [Scaling Compute](https://www.aria.org.uk/opportunity-spaces/nature-computes-better/scaling-compute/) project via ARIA.
 
 Previously, I was a research intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/system-research-group-asia/) (MSRA), supervised by [Dr. Lingxiao Ma](https://xysmlx.github.io/) and [Dr. Jilong Xue](https://scholar.google.com/citations?user=xKI6HXgAAAAJ&hl=en), with generous help from [Dr. Shijie Cao](https://caoshijie0501.github.io/) and [Dr. Fan Yang](https://fanyangcs.github.io/).
 
 I earned my Bachelor's degree from the School of Microelectronics at Shanghai Jiao Tong University, ranking 1st with a GPA of 3.96/4.3.
 
 I’m broadly interested in **ML hardware and systems**, particularly in **GPU microarchitecture**, **performance modeling**, **kernel optimization**, and **hardware-software co-design**.
+
+I'm a member of [TileAI](https://github.com/tile-ai) <img src="/images/tile-ai.png" alt="TileAI" style="height:22px; vertical-align: text-bottom; margin-left:6px;" loading="lazy" />.
 
 Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 
@@ -72,6 +74,35 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 <h2>💼 Internship</h2>
 
 <div class="exp-container">
+  <!--2025.11-Present-->
+  <div class="exp-left">2026–Present</div>
+  <div class="exp-middle">
+    <p><strong>Qwen Team</strong> – Research intern, AI Infrastructure </p>
+    <ul>
+      <li>Distributed LLM inference optimization</li>
+    </ul>
+  </div>
+  <div class="exp-right">
+    <img src="/images/qwen-logo.png" alt="Qwen Logo" style="height:60px;">
+  </div>
+</div>
+
+<div class="exp-container">
+  <!--2025.4- -->
+  <div class="exp-left">2025</div>
+  <div class="exp-middle">
+    <p><strong>Tile AI</strong> – Research intern, 3D-Stacked Architecture </p>
+    <ul>
+      <li>Architectural design space exploration for 3D-Stacked accelerators</li>
+    </ul>
+  </div>
+  <div class="exp-right">
+    <img src="/images/tile-ai.png" alt="Tile AI Logo" style="height:80px; margin-right:20px;">
+  </div>
+</div>
+
+<div class="exp-container">
+  <!--2023.6-2025.3-->
   <div class="exp-left">2023–2025</div>
   <div class="exp-middle">
     <p><strong>Microsoft Research Asia</strong> – System Research Group</p>
@@ -92,6 +123,7 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 
 <div class="exp-container">
   <div class="exp-left">2022–2023</div>
+  <!--2022.6-2023.1-->
   <div class="exp-middle">
     <p><strong>Shanghai AI Laboratory</strong> – SoC Design</p>
     <ul>
@@ -168,9 +200,9 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 
 
 ## 🏆 Honors & Awards
-- **UKRI PhD Scholarship**, Imperial College London (£22,780/year, *2025–2028*)  
+- **ARIA PhD Scholarship**, Imperial College London (£22,780/year, *2025–2028*)  
 - **Chinese National Scholarship**, Ministry of Education (*2020–2022*)  
-- **SenseTime Scholarship**, Top 30 nationwide in AI (*2021*)  
+- **SenseTime Scholarship**, 30 people/year nationwide in AI (*2021*)  
 - **Excellent Graduate of Shanghai**, awarded by Shanghai (*2022*)  
 - **First Prize**, Arm Cup (East China Division) (*2021*)  
 
@@ -179,7 +211,7 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 ## 🛠 Technical Skills
 
 - **Hardware**: Verilog, SystemVerilog  
-- **Software**: Python, C/C++, CUDA (incl. profiling with `ncu`/`nsys`), ROCm (incl. `rocprof`/`roccomute`), MATLAB
+- **Software**: Python, C/C++, CUDA (incl. profiling with `ncu`/`nsys`), ROCm (incl. `rocprof`/`roccompute`), MATLAB
 
 ---
 
