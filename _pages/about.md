@@ -15,7 +15,7 @@ I earned my Bachelor's degree from the School of Microelectronics at Shanghai Ji
 
 I’m broadly interested in **ML hardware and systems**, particularly in **GPU microarchitecture**, **performance modeling**, **kernel optimization**, and **hardware-software co-design**.
 
-I'm a member of [TileAI](https://github.com/tile-ai) <img src="/images/tile-ai.png" alt="TileAI" style="height:22px; vertical-align: text-bottom; margin-left:6px;" loading="lazy" />.
+I'm a member of [Tile-AI](https://github.com/tile-ai) <img src="/images/tile-ai.png" alt="TileAI" style="height:22px; vertical-align: text-bottom; margin-left:6px;" loading="lazy" />.
 
 Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 
@@ -91,7 +91,7 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
   <!--2025.4- -->
   <div class="exp-left">2025</div>
   <div class="exp-middle">
-    <p><strong>Tile AI</strong> – Research intern, 3D-Stacked Architecture </p>
+    <p><strong>Tile-AI</strong> – Research intern, 3D-Stacked Architecture </p>
     <ul>
       <li>Architectural design space exploration for 3D-Stacked accelerators</li>
     </ul>
