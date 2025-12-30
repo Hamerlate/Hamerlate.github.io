@@ -30,7 +30,7 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 ## 🎓 Education
 
 - **PhD in Computing**, Imperial College London  
-  *2025–2028 (expected)* · Funded by [ARIA Scaling Compute](https://www.aria.org.uk/opportunity-spaces/nature-computes-better/scaling-compute/) (UKRI)
+  *2025–2028 (expected)* · Funded by [Scaling Compute](https://www.aria.org.uk/opportunity-spaces/nature-computes-better/scaling-compute/) (ARIA)
 - **PhD in Electronic Engineering**, Shanghai Jiao Tong University *(withdrawn)*  
   *2022–2024* *Zhiyuan Honor PhD Program, ~top 2%*
 - **B.Eng. in Microelectronics**, Shanghai Jiao Tong University  
