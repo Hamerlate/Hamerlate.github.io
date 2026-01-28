@@ -25,17 +25,23 @@
   year: 2026
   featured: true
 
+- title: "TileLang: A Composable Tiled Programming Model for AI Systems"
+  venue_short: "ICLR"
+  venue_full: "The Fourteenth International Conference on Learning Representations (ICLR'26), 2026"
+  authors: "Lei Wang, Yu Cheng, Yining Shi, <strong>Zhiwen Mo</strong>, Zhengju Tang, Wenhao Xie, Tong Wu, Lingxiao Ma, Yuqing Xia, Jilong Xue, Fan Yang, Zhi Yang"
+  year: 2026
+  featured: true
+
+- title: "Flash3DGS: Algorithm and System Co-Optimization for Fast 3D Gaussian Splatting on GPUs"
+  venue_short: "MLSys"
+  venue_full: "The Ninth Annual Conference on Machine Learning and Systems (MLSys'26), 2026"
+  authors: "Lingjun Gao, Zhican Wang, <strong>Zhiwen Mo</strong>, Hongxiang Fan"
+  year: 2026
+
 - title: "PipeThreader: Software-Defined Pipelining for Efficient DNN Execution"
   venue_short: "OSDI"
   venue_full: "The 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI'25), 2025"
   authors: "Yu Cheng, Lei Wang, Yining Shi, and Yuqing Xia, Lingxiao Ma, Jilong Xue, Yang Wang, <strong>Zhiwen Mo</strong>, Feiyang Chen, Fan Yang, Mao Yang, Zhi Yang"
-  year: 2025
-  featured: true
-
-- title: "TileLang: A Composable Tiled Programming Model for AI Systems"
-  venue_short: "arXiv"
-  venue_full: "arXiv preprint arXiv:2504.17577, 2025"
-  authors: "Lei Wang, Yu Cheng, Yining Shi, Zhengju Tang, <strong>Zhiwen Mo</strong>, Wenhao Xie, Lingxiao Ma, Yuqing Xia, Jilong Xue, Fan Yang, Zhi Yang"
   year: 2025
   featured: true
 

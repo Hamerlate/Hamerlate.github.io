@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m **Zhiwen Mo (莫志文)**, a first-year PhD student in the Department of Computing at [Imperial College London](https://www.imperial.ac.uk/), co-advised by [Dr. Hongxiang Fan](https://os-hxfan.github.io/) and [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl/). My PhD is funded by the [Scaling Compute](https://www.aria.org.uk/opportunity-spaces/nature-computes-better/scaling-compute/) project via ARIA.
+Hi! I’m **Zhiwen Mo (莫志文)**, a second-year PhD student in the Department of Computing at [Imperial College London](https://www.imperial.ac.uk/), co-advised by [Dr. Hongxiang Fan](https://os-hxfan.github.io/) and [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl/). My PhD is funded by the [Scaling Compute](https://www.aria.org.uk/opportunity-spaces/nature-computes-better/scaling-compute/) project via ARIA.
 
 Previously, I was a research intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/system-research-group-asia/) (MSRA), supervised by [Dr. Lingxiao Ma](https://xysmlx.github.io/) and [Dr. Jilong Xue](https://scholar.google.com/citations?user=xKI6HXgAAAAJ&hl=en), with generous help from [Dr. Shijie Cao](https://caoshijie0501.github.io/) and [Dr. Fan Yang](https://fanyangcs.github.io/).
 
