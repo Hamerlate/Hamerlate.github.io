@@ -26,8 +26,8 @@
   featured: true
 
 - title: "TileLang: A Composable Tiled Programming Model for AI Systems"
-  venue_short: "ICLR"
-  venue_full: "The Fourteenth International Conference on Learning Representations (ICLR'26), 2026"
+  venue_short: "ICLR \nOral" 
+  venue_full: "The Fourteenth International Conference on Learning Representations (ICLR'26 <strong>Oral</strong>), 2026"
   authors: "Lei Wang, Yu Cheng, Yining Shi, <strong>Zhiwen Mo</strong>, Zhengju Tang, Wenhao Xie, Tong Wu, Lingxiao Ma, Yuqing Xia, Jilong Xue, Fan Yang, Zhi Yang"
   year: 2026
   featured: true

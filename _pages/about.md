@@ -75,7 +75,7 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 
 <div class="exp-container">
   <!--2025.11-Present-->
-  <div class="exp-left">2026–Present</div>
+  <div class="exp-left">2025–2026</div>
   <div class="exp-middle">
     <p><strong>Qwen Team</strong> – Research intern, AI Infrastructure </p>
     <ul>
