@@ -74,6 +74,19 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 <h2>💼 Internship</h2>
 
 <div class="exp-container">
+  <div class="exp-left">2026</div>
+  <div class="exp-middle">
+    <p><strong>MSR Cambdridge</strong> – Future AI Infrastructure Group</p>
+    <ul>
+      <li>Memory optimization for multi-agent systems</li>
+    </ul>
+  </div>
+  <div class="exp-right">
+    <img src="/images/microsoft.png" alt="Microsoft Logo" style="height:30px;">
+  </div>
+</div>
+
+<div class="exp-container">
   <!--2025.11-Present-->
   <div class="exp-left">2025–2026</div>
   <div class="exp-middle">
