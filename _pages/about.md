@@ -23,6 +23,7 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 
 ## 📰 News
 
+- **July 2026** DeepStack has been accepted to MICRO&#39;26. See you in Athens!
 - **June 2025** Presented [LUT Tensor Core](https://dl.acm.org/doi/abs/10.1145/3695053.3731057) at ISCA'25. [Slides](/files/LUT_Tensor_Core_ISCA_Slides.pdf)
 
 ---

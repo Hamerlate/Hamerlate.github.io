@@ -4,5 +4,5 @@ services:
     build: .
     volumes: [ .:/usr/src/app ]
     ports: [ 4000:4000 ]
-    user: 1000:1000
+    user: "${JEKYLL_UID:-1000}:${JEKYLL_GID:-1000}"
     command: jekyll serve -H 0.0.0.0 -w

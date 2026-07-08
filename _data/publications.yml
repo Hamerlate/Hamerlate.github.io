@@ -1,15 +1,15 @@
+- title: "DeepStack: Scalable and Accurate Design Space Exploration for Distributed 3D-Stacked AI Accelerators"
+  venue_short: "MICRO"
+  venue_full: 'The 59th IEEE/ACM International Symposium on Microarchitecture (MICRO''26), 2026; <a href="https://arxiv.org/abs/2604.04750">arXiv:2604.04750</a>'
+  authors: "<strong>Zhiwen Mo</strong>, Guoyu Li, Hao (Mark) Chen, Yu Cheng, Zhengju Tang, Qianzhou Wang, Lei Wang, Shuang Liang, Lingxiao Ma, Xianqi Zhou, Yuxiao Guo, Wayne Luk, Jilong Xue, Hongxiang Fan"
+  year: 2026
+  featured: true
+
 - title: "LUT Tensor Core: A Software-Hardware Co-Design for LUT-Based Low-Bit LLM Inference"
   venue_short: "ISCA"
   venue_full: "The 52nd International Symposium on Computer Architecture (ISCA'25), 2025"
   authors: "<strong>Zhiwen Mo</strong>, Lei Wang, Jianyu Wei, Zhichen Zeng, Shijie Cao, Lingxiao Ma, Naifeng Jing, Ting Cao, Jilong Xue, Fan Yang, Mao Yang"
   year: 2025
-  featured: true
-
-- title: "DeepStack: Scalable and Accurate Design Space Exploration for Distributed 3D-Stacked AI Accelerators"
-  venue_short: "arxiv"
-  venue_full: 'arXiv preprint <a href="https://arxiv.org/abs/2604.04750">arXiv:2604.04750</a>, 2026'
-  authors: "<strong>Zhiwen Mo</strong>, Guoyu Li, Hao (Mark) Chen, Yu Cheng, Zhengju Tang, Qianzhou Wang, Lei Wang, Shuang Liang, Lingxiao Ma, Xianqi Zhou, Yuxiao Guo, Wayne Luk, Jilong Xue, Hongxiang Fan"
-  year: 2026
   featured: true
 
 - title: "A GPU Kernel Research Project"
