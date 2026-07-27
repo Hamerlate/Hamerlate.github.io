@@ -12,10 +12,10 @@
   year: 2025
   featured: true
 
-- title: "A GPU Kernel Research Project"
-  venue_short: "Internal"
-  venue_full: "Research in progress, 2026"
-  authors: "<strong>Zhiwen Mo</strong>, et al."
+- title: "TileSight: A First-Principles Tile-Centric Analytical GPU Performance Model from Cores to Clusters"
+  venue_short: "arXiv"
+  venue_full: 'arXiv preprint <a href="http://arxiv.org/abs/2607.22432">arXiv:2607.22432</a>, 2026'
+  authors: "<strong>Zhiwen Mo</strong>, Yu Cheng, Lei Wang, Zhengju Tang, Lei Xu, Guoyu Li, Yuqi Dong, Lingxiao Ma, Yuqing Xia, Jilong Xue, Fan Yang, Luo Mai, Zhi Yang, Wayne Luk, Hongxiang Fan"
   year: 2026
   featured: true
 
