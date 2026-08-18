@@ -77,7 +77,20 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 <div class="exp-container">
   <div class="exp-left">2026</div>
   <div class="exp-middle">
-    <p><strong>MSR Cambdridge</strong> – Future AI Infrastructure Group</p>
+    <p><strong>Qwen Team</strong> – Research Intern, AI Infrastructure </p>
+    <ul>
+      <li>Online serving optimization for multimodal models, especially Qwen-Omni</li>
+    </ul>
+  </div>
+  <div class="exp-right">
+    <img src="/images/qwen-logo.png" alt="Qwen Logo" style="height:60px;">
+  </div>
+</div>
+
+<div class="exp-container">
+  <div class="exp-left">2026</div>
+  <div class="exp-middle">
+    <p><strong>MSR Cambridge</strong> – Future AI Infrastructure Group</p>
     <ul>
       <li>Memory optimization for multi-agent systems</li>
     </ul>
@@ -89,11 +102,12 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 
 <div class="exp-container">
   <!--2025.11-Present-->
-  <div class="exp-left">2025–2026</div>
+  <div class="exp-left">2025</div>
   <div class="exp-middle">
-    <p><strong>Qwen Team</strong> – Research intern, AI Infrastructure </p>
+    <p><strong>Qwen Team</strong> – Research Intern, AI Infrastructure </p>
     <ul>
-      <li>Distributed LLM inference optimization</li>
+      <!-- <li>Distributed LLM inference optimization</li> -->
+      <li>Distributed LLM inference optimization, focusing on large-scale EP</li>
     </ul>
   </div>
   <div class="exp-right">
@@ -105,9 +119,9 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
   <!--2025.4- -->
   <div class="exp-left">2025</div>
   <div class="exp-middle">
-    <p><strong>Tile-AI</strong> – Research intern, 3D-Stacked Architecture </p>
+    <p><strong>Tile-AI</strong> – Research Intern, 3D DRAM-Stacked Architecture </p>
     <ul>
-      <li>Architectural design space exploration for 3D-Stacked accelerators</li>
+      <li>Architectural design space exploration for 3D DRAM-stacked accelerators</li>
     </ul>
   </div>
   <div class="exp-right">
