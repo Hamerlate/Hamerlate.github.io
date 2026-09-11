@@ -69,7 +69,7 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
   <li>
     <time class="news-date" datetime="2026-07">July 2026</time>
     <div>
-      <a href="https://arxiv.org/abs/2604.04750">DeepStack</a> accepted to <strong>MICRO&#39;26</strong>. See you in Athens!
+      <a href="https://arxiv.org/abs/2604.04750">DeepStack</a> accepted to MICRO&#39;26. See you in Athens!
       <div class="news-details">
         <span>Awarded all three AE badges.</span>
         <span class="news-artifact"><span>Artifact</span><span aria-hidden="true">→</span><a href="https://github.com/tile-ai/DeepStack/tree/ae" aria-label="View DeepStack artifact on GitHub (ae branch)" title="DeepStack artifact (ae branch)"><img src="/images/artifact-candidates/zzz-mini-cargo-truck.png" alt="" width="32" height="32"></a></span>
