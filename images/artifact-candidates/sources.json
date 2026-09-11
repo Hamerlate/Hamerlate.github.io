@@ -1,0 +1,167 @@
+[
+  {
+    "file": "zzz-bagboo.png",
+    "name": "纸袋布",
+    "game": "绝区零",
+    "source": "https://wiki.hoyolab.com/pc/zzz/aggregate/15?lang=en-us",
+    "original": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/03/15fbe9208f371ad617a4dc1da44227e7_7335300946497209435.png",
+    "note": "纸袋包裹的造型，可爱，也贴近 artifact 的意象。",
+    "width": 453,
+    "height": 672,
+    "sha256": "d7d8534cee6882b3d7c6f2904d6353584317949d9e46ab54e74abc785112aa70"
+  },
+  {
+    "file": "zzz-mini-cargo-truck.png",
+    "name": "小卡格车",
+    "game": "绝区零",
+    "source": "https://wiki.biligame.com/zzz/小卡格车",
+    "original": "https://patchwiki.biligame.com/images/zzz/0/0c/hf7eka3cmqpy0uqtjp5pwc12y350ai1.png",
+    "note": "轮式物资箱，和可下载的 artifact 包很贴切。",
+    "width": 256,
+    "height": 256,
+    "sha256": "92c72ac269b6136434c24c40af7c78e2e44a80e0a2575c79aefacb7119172745"
+  },
+  {
+    "file": "hsr-blue-chest-body.png",
+    "name": "地下寻宝 · 蓝色宝箱",
+    "game": "星铁",
+    "source": "https://game8.co/games/Honkai-Star-Rail/archives/417667",
+    "original": "https://img.game8.co/3748122/b9c7d79354155f0cbc37442fa32172b1.png/show",
+    "note": "宝箱本体的彩色外观，原图带圆形界面背景。",
+    "width": 437,
+    "height": 437,
+    "sha256": "8c7c13d73ae79e1f0fe48639f94745cb5ae585c3cd31942cab6bec94b4f184bd"
+  },
+  {
+    "file": "hsr-herta-chest-appearances.png",
+    "name": "空间站 · 三种宝箱外观",
+    "game": "星铁",
+    "source": "https://www.hoyolab.com/article/18936488",
+    "original": "https://upload-os-bbs.hoyolab.com/upload/2023/05/30/248398309/ac9b6a0bbad935e970272410b2dd8fa0_6057575985709313600.png",
+    "note": "普通、丰厚、贵重战利品的实景对照；适合外观参考。",
+    "width": 1280,
+    "height": 495,
+    "sha256": "691fea3a0a8ae444a4eb5103e13a29efc195b7abc1f28dcc5390fbdf21ce2ea9"
+  },
+  {
+    "file": "genshin-nameless-treasure.png",
+    "name": "无名的宝藏",
+    "game": "原神",
+    "source": "https://wiki.biligame.com/ys/文件:无名的宝藏.png",
+    "original": "https://patchwiki.biligame.com/images/ys/c/cc/s225e10u5or5xn00xkacsyoljq7xxyo.png",
+    "note": "金色宝箱；原图带灰色底。",
+    "width": 180,
+    "height": 180,
+    "sha256": "9568fe2c1f8693a0698b5b4d59ff4f37695861d0e7c879b605546fde41b5e027"
+  },
+  {
+    "file": "genshin-ornate-toy-box.png",
+    "name": "华丽玩具箱",
+    "game": "原神",
+    "source": "https://wiki.biligame.com/ys/%E6%96%87%E4%BB%B6:%E5%8D%8E%E4%B8%BD%E7%8E%A9%E5%85%B7%E7%AE%B1.png",
+    "original": "https://patchwiki.biligame.com/images/ys/e/e9/hqvfw0vvnrlqny6abj5oy57teqm5gpp.png",
+    "note": "另一张金色箱子图标；原图带灰色底。",
+    "width": 220,
+    "height": 220,
+    "sha256": "331494a8116c76ebc4ed914d5203cc95fcde921853d26ee84ebc19d0e8a148fe"
+  },
+  {
+    "file": "genshin-remarkable-chest.png",
+    "name": "奇馈宝箱",
+    "game": "原神",
+    "source": "https://wiki.biligame.com/ys/%E6%96%87%E4%BB%B6:%E5%A5%87%E9%A6%88%E5%AE%9D%E7%AE%B1.png",
+    "original": "https://patchwiki.biligame.com/images/ys/7/7c/pmg4sqheewzs4nhf5015twdd1ilv4o8.png",
+    "note": "绿色宝箱地图标记；原图尺寸较小。",
+    "width": 58,
+    "height": 92,
+    "sha256": "9fcbe977b96bc2b5c3a3a486ee4df9d08f44136a7e569cf37059622b59b2f31d"
+  },
+  {
+    "file": "hsr-basic-treasure.png",
+    "name": "普通战利品",
+    "game": "星铁",
+    "source": "https://wiki.biligame.com/sr/%E6%96%87%E4%BB%B6:Mapicon-%E6%99%AE%E9%80%9A%E6%88%98%E5%88%A9%E5%93%81.png",
+    "original": "https://patchwiki.biligame.com/images/sr/6/62/ppbqboz63i779848xvjlx4yjr5rg9qc.png",
+    "note": "简洁的米金色宝箱地图图标。",
+    "width": 72,
+    "height": 72,
+    "sha256": "0b85356e7bd08f11c1e0efe242151681c3fa004b97b2b279e955a045991413b3"
+  },
+  {
+    "file": "hsr-bountiful-treasure.png",
+    "name": "丰厚战利品",
+    "game": "星铁",
+    "source": "https://wiki.biligame.com/sr/%E6%96%87%E4%BB%B6:Mapicon-%E4%B8%B0%E5%8E%9A%E6%88%98%E5%88%A9%E5%93%81.png",
+    "original": "https://patchwiki.biligame.com/images/sr/f/fc/okof9hus3pyk7h9vftsahkfggkr9zw9.png",
+    "note": "米金色立体箱子，缩小后轮廓清楚。",
+    "width": 72,
+    "height": 72,
+    "sha256": "7e0a7aa277795b046e983614e65cc7590418a9f4b1f70bb2386e8a5187ce17d4"
+  },
+  {
+    "file": "hsr-precious-treasure.png",
+    "name": "贵重战利品",
+    "game": "星铁",
+    "source": "https://wiki.biligame.com/sr/%E6%96%87%E4%BB%B6:Mapicon-%E8%B4%B5%E9%87%8D%E6%88%98%E5%88%A9%E5%93%81.png",
+    "original": "https://patchwiki.biligame.com/images/sr/6/68/ax47jaw8th70153n9enzzao7g197tes.png",
+    "note": "带菱形装饰的宝箱地图图标。",
+    "width": 72,
+    "height": 72,
+    "sha256": "e14cdfff68ba02f36d264761f81e27d75ad50afdd6d1d832f58bed64af7b0591"
+  },
+  {
+    "file": "hsr-warp-trotter.png",
+    "name": "次元扑满",
+    "game": "星铁",
+    "source": "https://wiki.biligame.com/sr/%E6%96%87%E4%BB%B6:Mapicon-%E6%AC%A1%E5%85%83%E6%89%91%E6%BB%A1.png",
+    "original": "https://patchwiki.biligame.com/images/sr/4/4c/cg7yav6dhhrrwqdgmbqj9fovn1r0m8z.png",
+    "note": "独立扑满地图图标，偏简洁的剪影。",
+    "width": 72,
+    "height": 72,
+    "sha256": "4625ea727b824006e2d844b1866dad2079ec48f0dd933c07a4b494ce749013bf"
+  },
+  {
+    "file": "hsr-topaz-numby-01.png",
+    "name": "托帕 · 点赞",
+    "game": "星铁",
+    "source": "https://www.hoyolab.com/article/22211382",
+    "original": "https://upload-os-bbs.hoyolab.com/upload/2023/10/09/75fe2aca096c528669d0af8ddd1a5b51_7805544232498463342.png",
+    "note": "帕姆展览馆第 9 弹透明表情；适合稍大的展示尺寸。",
+    "width": 300,
+    "height": 300,
+    "sha256": "1f20c8b051c49c4e274a937225f2df3b32c5a34e6fad7d361e3523985e9bbe38"
+  },
+  {
+    "file": "hsr-topaz-numby-02.png",
+    "name": "托帕 · 惊讶",
+    "game": "星铁",
+    "source": "https://www.hoyolab.com/article/22211382",
+    "original": "https://upload-os-bbs.hoyolab.com/upload/2023/10/09/39c85f331c28da602659da334f27426d_3529829716342259465.png",
+    "note": "帕姆展览馆第 9 弹透明表情；适合稍大的展示尺寸。",
+    "width": 300,
+    "height": 300,
+    "sha256": "aa12e60902bf59ba0d5e4bf356ae1260954f49d2f719aa5e891b9f7a7db6424d"
+  },
+  {
+    "file": "hsr-topaz-numby-03.png",
+    "name": "托帕与账账 · 欢呼",
+    "game": "星铁",
+    "source": "https://www.hoyolab.com/article/22211382",
+    "original": "https://upload-os-bbs.hoyolab.com/upload/2023/10/09/153632efd7bbfc6754bc902181a6c6d0_1084940449270456104.png",
+    "note": "帕姆展览馆第 9 弹透明表情；适合稍大的展示尺寸。",
+    "width": 300,
+    "height": 298,
+    "sha256": "4b076b444e8d178821f2f13568966777416766aee1913716ceefcda3a5ceb9bb"
+  },
+  {
+    "file": "hsr-topaz-numby-04.png",
+    "name": "托帕与账账 · 注意",
+    "game": "星铁",
+    "source": "https://www.hoyolab.com/article/22211382",
+    "original": "https://upload-os-bbs.hoyolab.com/upload/2023/10/09/e10cfe8046483372b07007a153d3c0ca_696929760963159862.png",
+    "note": "帕姆展览馆第 9 弹透明表情；适合稍大的展示尺寸。",
+    "width": 296,
+    "height": 294,
+    "sha256": "33fc0a204f22e7d2700b78f687701e718e2deaf39dc822833e1005cfd701e2b9"
+  }
+]

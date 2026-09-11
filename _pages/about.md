@@ -23,8 +23,64 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 
 ## 📰 News
 
-- **July 2026** DeepStack has been accepted to MICRO&#39;26. See you in Athens!
-- **June 2025** Presented [LUT Tensor Core](https://dl.acm.org/doi/abs/10.1145/3695053.3731057) at ISCA'25. [Slides](/files/LUT_Tensor_Core_ISCA_Slides.pdf)
+<style>
+.news-list {
+  list-style: none;
+  padding-left: 0;
+}
+.news-list > li {
+  display: grid;
+  grid-template-columns: 6.2em minmax(0, 1fr);
+  gap: 0.15em 0.85em;
+  margin-bottom: 0.85em;
+}
+.news-date {
+  font-weight: bold;
+  white-space: nowrap;
+}
+.news-details {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25em 1em;
+  margin-top: 0.2em;
+  font-size: 0.85em;
+}
+.news-artifact {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  white-space: nowrap;
+}
+.news-artifact img {
+  display: block;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+@media (max-width: 600px) {
+  .news-list > li {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+</style>
+
+<ul class="news-list">
+  <li>
+    <time class="news-date" datetime="2026-07">July 2026</time>
+    <div>
+      <a href="https://arxiv.org/abs/2604.04750">DeepStack</a> accepted to <strong>MICRO&#39;26</strong>. See you in Athens!
+      <div class="news-details">
+        <span>Awarded all three AE badges.</span>
+        <span class="news-artifact"><span>Artifact</span><span aria-hidden="true">→</span><a href="https://github.com/tile-ai/DeepStack/tree/ae" aria-label="View DeepStack artifact on GitHub (ae branch)" title="DeepStack artifact (ae branch)"><img src="/images/artifact-candidates/zzz-mini-cargo-truck.png" alt="" width="32" height="32"></a></span>
+      </div>
+    </div>
+  </li>
+  <li>
+    <time class="news-date" datetime="2025-06">June 2025</time>
+    <div>Presented <a href="https://dl.acm.org/doi/abs/10.1145/3695053.3731057">LUT Tensor Core</a> at ISCA'25. <a href="/files/LUT_Tensor_Core_ISCA_Slides.pdf">Slides</a></div>
+  </li>
+</ul>
 
 ---
 
@@ -83,7 +139,7 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
     </ul>
   </div>
   <div class="exp-right">
-    <img src="/images/qwen-logo.png" alt="Qwen Logo" style="height:60px;">
+    <img src="/images/qwen-logo-2026.png" alt="Qwen Logo" style="height:40px;">
   </div>
 </div>
 
