@@ -1,4 +1,4 @@
-- title: "DeepStack: Scalable and Accurate Design Space Exploration for Distributed 3D-Stacked AI Accelerators"
+- title: "DeepStack: Facilitating Co-Design Exploration of 3D DRAM-Stacked Accelerators for Distributed LLM Inference"
   venue_short: "MICRO"
   venue_full: 'The 59th IEEE/ACM International Symposium on Microarchitecture (MICRO''26), 2026; <a href="https://arxiv.org/abs/2604.04750">arXiv:2604.04750</a>'
   authors: "<strong>Zhiwen Mo</strong>, Guoyu Li, Hao (Mark) Chen, Yu Cheng, Zhengju Tang, Qianzhou Wang, Lei Wang, Shuang Liang, Lingxiao Ma, Xianqi Zhou, Yuxiao Guo, Wayne Luk, Jilong Xue, Hongxiang Fan"
