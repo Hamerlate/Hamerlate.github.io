@@ -34,6 +34,12 @@
   year: 2026
   featured: true
 
+- title: "Dynamic Expert Sharing: Decoupling Memory from Parallelism in Mixture-of-Experts Diffusion LLMs"
+  venue_short: "NIPS"
+  venue_full: "The Fortieth Annual Conference on Neural Information Processing Systems (NIPS'26), 2026"
+  authors: "Hao (Mark) Chen, <strong>Zhiwen Mo</strong>, Royson Lee, Qianzhou Wang, Da Li, Shell Xu Hu, Wayne Luk, Timothy Hospedales, Hongxiang Fan"
+  year: 2026
+
 - title: "Flash3DGS: Algorithm and System Co-Optimization for Fast 3D Gaussian Splatting on GPUs"
   venue_short: "MLSys"
   venue_full: "The Ninth Annual Conference on Machine Learning and Systems (MLSys'26), 2026"
@@ -50,12 +56,6 @@
   venue_short: "ISCA"
   venue_full: "The 53rd International Symposium on Computer Architecture (ISCA'26), 2026"
   authors: "Haoran Wu, Can Xiao, Jiayi Nie, Xuan Guo, Binglei Lou, Jeffrey T.H. Wong, <strong>Zhiwen Mo</strong>, Cheng Zhang, Przemyslaw Forys, Chengyang Ai, Timi Adeniran, Wayne Luk, Hongxiang Fan, Jianyi Cheng, Timothy M. Jones, Rika Antonova, Robert Mullins, Aaron Zhao"
-  year: 2026
-
-- title: "Dynamic Expert Sharing: Decoupling Memory from Parallelism in Mixture-of-Experts Diffusion LLMs"
-  venue_short: "arxiv"
-  venue_full: 'arXiv preprint <a href="https://arxiv.org/abs/2602.00879">arXiv:2602.00879</a>, 2026'
-  authors: "Hao (Mark) Chen, <strong>Zhiwen Mo</strong>, Royson Lee, Qianzhou Wang, Da Li, Shell Xu Hu, Wayne Luk, Timothy Hospedales, Hongxiang Fan"
   year: 2026
 
 
