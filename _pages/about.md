@@ -67,6 +67,10 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 
 <ul class="news-list">
   <li>
+    <time class="news-date" datetime="2026-08">August 2026</time>
+    <div>TileScale accepted to <a href="https://2027.eurosys.org/">EuroSys&#39;27</a> (Spring cycle).</div>
+  </li>
+  <li>
     <time class="news-date" datetime="2026-07">July 2026</time>
     <div>
       <a href="https://arxiv.org/abs/2604.04750">DeepStack</a> accepted to MICRO&#39;26. See you in Athens!
