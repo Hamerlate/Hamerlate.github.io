@@ -28,7 +28,7 @@ I earned my Bachelor's degree from the School of Microelectronics at Shanghai Ji
 
 I’m broadly interested in **ML hardware and systems**, particularly in **GPU microarchitecture**, **performance modeling**, **kernel optimization**, and **hardware-software co-design**.
 
-I'm a member of [Tile-AI](https://github.com/tile-ai) <img src="/images/tile-ai.png" alt="TileAI" style="height:22px; vertical-align: text-bottom; margin-left:6px;" loading="lazy" />. We aim to make AI workload development faster through tile-based programming and systems.
+I'm a member of [Tile-AI](https://github.com/tile-ai) <img src="/images/tile-ai.png" alt="TileAI" style="height:22px; vertical-align: text-bottom; margin-left:6px;" loading="lazy" />. *We aim to make AI workload development faster through tile-based programming and systems.*
 
 <div class="tile-intro"><strong>Our Tile Family Work</strong><div class="tile-links"><a class="tile-lang" href="https://github.com/tile-ai/tilelang"><span>TileLang</span><small>Program efficient kernels</small></a><a class="tile-scale" href="https://github.com/tile-ai/tilescale"><span>TileScale</span><small>Distributed GPU programming</small></a><a class="tile-sight" href="https://github.com/tile-ai/TileSight"><span>TileSight</span><small>Performance modeling</small></a></div></div>
 
