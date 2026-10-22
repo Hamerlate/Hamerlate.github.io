@@ -10,15 +10,15 @@ redirect_from:
 <style>
 .tile-intro {margin:18px 0 24px;}
 .tile-intro a {font-weight:600;}
-.tile-tag {display:inline-block; font-size:.72em; font-weight:600; padding:2px 8px; border-radius:12px; color:#365f77; background:#eaf1f5; margin-bottom:6px;}
+.tile-tag {display:inline-block; font-size:.72em; font-weight:600; padding:2px 8px; border-radius:12px; color:#526D82; background:#F3F6F8; margin-bottom:6px;}
 .pub-code {font-size:.85em; white-space:nowrap;}
 .pub-content {min-width:0; overflow-wrap:anywhere;}
 .tile-links {display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:10px; margin-top:14px;}
 .tile-links a {display:block; padding:12px; border:1px solid #dce4eb; border-radius:6px; text-decoration:none;}
-.tile-links small {display:block; color:#505e69; font-weight:400; margin-top:4px;}
-.tile-lang, .tile-scale, .tile-sight {--tile-color:#265faa; --tile-bg:#f1f6fd;}
+.tile-links small {display:block; color:#49545e; font-weight:400; margin-top:4px;}
+.tile-lang, .tile-scale, .tile-sight {--tile-color:#526D82; --tile-bg:#F3F6F8;}
 @media(max-width:600px) {.tile-links {grid-template-columns:1fr;} .pub-entry {flex-wrap:wrap; gap:8px;} .pub-content {flex-basis:100%; padding:0;} .pub-year {margin-left:auto;} }
-.tile-paper {border-left:4px solid var(--tile-color); background:var(--tile-bg);} .tile-paper .tile-tag {color:var(--tile-color); background:white;} .tile-links a {color:var(--tile-color); border-top:3px solid var(--tile-color); background:var(--tile-bg);}.tile-links a {display:flex; flex-direction:column; align-items:flex-start;} .tile-links small {margin-bottom:6px;} </style>
+.tile-paper {border-left:4px solid var(--tile-color); background:var(--tile-bg);} .tile-paper .tile-tag {color:var(--tile-color); background:white;} .tile-links a {color:var(--tile-color); border-top:3px solid var(--tile-color); background:var(--tile-bg);}.tile-links a {border-color:#526D82; display:flex; flex-direction:column; align-items:flex-start;} .tile-links small {margin-bottom:6px;} </style>
 
 Hi! I’m **Zhiwen Mo (莫志文)**, a second-year PhD student in the Department of Computing at [Imperial College London](https://www.imperial.ac.uk/), co-advised by [Dr. Hongxiang Fan](https://os-hxfan.github.io/) and [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl/). My PhD is funded by the [Scaling Compute](https://www.aria.org.uk/opportunity-spaces/nature-computes-better/scaling-compute/) project via ARIA.
 
