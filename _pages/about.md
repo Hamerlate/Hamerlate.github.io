@@ -310,7 +310,7 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 ---
 
 ## 🏆 Honors & Awards
-- **ARIA PhD Scholarship**, Imperial College London (£22,780/year, *2025–2028*)  
+- **ARIA PhD Scholarship**, Imperial College London (£23,805/year, *2025–2028*)
 - **Chinese National Scholarship**, Ministry of Education (*2020–2022*)  
 - **SenseTime Scholarship**, 30 people/year nationwide in AI (*2021*)  
 - **Excellent Graduate of Shanghai**, awarded by Shanghai (*2022*)  
