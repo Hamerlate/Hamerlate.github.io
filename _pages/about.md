@@ -2,10 +2,23 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+.tile-intro {margin:18px 0 24px;}
+.tile-intro a {font-weight:600;}
+.tile-tag {display:inline-block; font-size:.72em; font-weight:600; padding:2px 8px; border-radius:12px; color:#365f77; background:#eaf1f5; margin-bottom:6px;}
+.pub-code {font-size:.85em; white-space:nowrap;}
+.pub-content {min-width:0; overflow-wrap:anywhere;}
+.tile-links {display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:10px; margin-top:14px;}
+.tile-links a {display:block; padding:12px; border:1px solid #dce4eb; border-radius:6px; text-decoration:none;}
+.tile-links small {display:block; color:#505e69; font-weight:400; margin-top:4px;}
+.tile-lang, .tile-scale, .tile-sight {--tile-color:#265faa; --tile-bg:#f1f6fd;}
+@media(max-width:600px) {.tile-links {grid-template-columns:1fr;} .pub-entry {flex-wrap:wrap; gap:8px;} .pub-content {flex-basis:100%; padding:0;} .pub-year {margin-left:auto;} }
+.tile-paper {border-left:4px solid var(--tile-color); background:var(--tile-bg);} .tile-paper .tile-tag {color:var(--tile-color); background:white;} .tile-links a {color:var(--tile-color); border-top:3px solid var(--tile-color); background:var(--tile-bg);}.tile-links a {display:flex; flex-direction:column; align-items:flex-start;} .tile-links small {margin-bottom:6px;} </style>
 
 Hi! I’m **Zhiwen Mo (莫志文)**, a second-year PhD student in the Department of Computing at [Imperial College London](https://www.imperial.ac.uk/), co-advised by [Dr. Hongxiang Fan](https://os-hxfan.github.io/) and [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl/). My PhD is funded by the [Scaling Compute](https://www.aria.org.uk/opportunity-spaces/nature-computes-better/scaling-compute/) project via ARIA.
 
@@ -15,7 +28,9 @@ I earned my Bachelor's degree from the School of Microelectronics at Shanghai Ji
 
 I’m broadly interested in **ML hardware and systems**, particularly in **GPU microarchitecture**, **performance modeling**, **kernel optimization**, and **hardware-software co-design**.
 
-I'm a member of [Tile-AI](https://github.com/tile-ai) <img src="/images/tile-ai.png" alt="TileAI" style="height:22px; vertical-align: text-bottom; margin-left:6px;" loading="lazy" />.
+I'm a member of [Tile-AI](https://github.com/tile-ai) <img src="/images/tile-ai.png" alt="TileAI" style="height:22px; vertical-align: text-bottom; margin-left:6px;" loading="lazy" />. We aim to make AI workload development faster through tile-based programming and systems.
+
+<div class="tile-intro"><strong>Our Tile Family Work</strong><div class="tile-links"><a class="tile-lang" href="https://github.com/tile-ai/tilelang"><span>TileLang</span><small>Program efficient kernels</small></a><a class="tile-scale" href="https://github.com/tile-ai/tilescale"><span>TileScale</span><small>Distributed GPU programming</small></a><a class="tile-sight" href="https://github.com/tile-ai/TileSight"><span>TileSight</span><small>Performance modeling</small></a></div></div>
 
 Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 
@@ -76,7 +91,7 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
       <a href="https://arxiv.org/abs/2604.04750">DeepStack</a> accepted to MICRO&#39;26. See you in Athens! <a href="/files/DeepStack-MICRO-v5-slides.pdf">Slides</a>
       <div class="news-details">
         <span>Awarded all three AE badges.</span>
-        <span class="news-artifact"><span>Artifact</span><span aria-hidden="true">→</span><a href="https://github.com/tile-ai/DeepStack/tree/ae" aria-label="View DeepStack artifact on GitHub (ae branch)" title="DeepStack artifact (ae branch)"><img src="/images/artifact-candidates/zzz-mini-cargo-truck.png" alt="" width="32" height="32"></a></span>
+        <span class="news-artifact"><span>Artifact</span><span aria-hidden="true">→</span><a href="https://github.com/tile-ai/DeepStack/tree/main" aria-label="View DeepStack artifact on GitHub (main branch)" title="DeepStack artifact (main branch)"><img src="/images/artifact-candidates/zzz-mini-cargo-truck.png" alt="" width="32" height="32"></a></span>
       </div>
     </div>
   </li>
@@ -223,7 +238,7 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
   </div>
 </div>
 
-<h2>📄 Selected Publications</h2>
+<h2 id="selected-publications">📄 Selected Publications</h2>
 
 <style>
 .pub-entry {
@@ -263,29 +278,36 @@ Email: [zhiwen.mo25@ic.ac.uk](mailto:zhiwen.mo25@ic.ac.uk)
 }
 </style>
 
-<div>
 {% assign top_pubs = site.data.publications | where: "featured", true %}
-{% for pub in top_pubs %}
-  <div class="pub-entry">
-    <div class="pub-venue">
-      {{ pub.venue_short }}
-    </div>
+{% for pub in top_pubs %}{% assign tile_name = pub.title | split: ':' | first %}
+{% assign tile_key = '' %}
+{% case tile_name %}
+{% when 'TileLang' %}{% assign tile_key = 'lang' %}
+{% when 'TileScale' %}{% assign tile_key = 'scale' %}
+{% when 'TileSight' %}{% assign tile_key = 'sight' %}
+{% endcase %}
+  <div class="pub-entry{% if tile_key != '' %} tile-paper tile-{{ tile_key }}{% endif %}">
+    <div class="pub-venue">{{ pub.venue_short }}</div>
     <div class="pub-content">
+      {% if tile_key != '' %}<span class="tile-tag">Tile Family{% if tile_key == 'lang' %} · Programming{% elsif tile_key == 'scale' %} · Distributed programming{% else %} · Performance modeling{% endif %}</span>{% endif %}
       <div><strong>{{ pub.title }}</strong></div>
       <div>{{ pub.authors | markdownify }}</div>
-      <div><em>{{ pub.venue_full }}</em></div>
+      <div><em>{{ pub.venue_full }}</em>{% if pub.code_url %} <span class="pub-code">· <a href="{{ pub.code_url }}">Code ↗</a></span>{% endif %}</div>
     </div>
-    <div class="pub-year">
-      {{ pub.year }}
-    </div>
-  </div>
-{% endfor %}
-</div>
+    <div class="pub-year">{{ pub.year }}</div>
+  </div>{% endfor %}
 
 <p style="margin-top: 10px;">
   👉 See full list at <a href="/publications/">Publications</a>
 </p>
 
+
+## Academic Service
+
+- **Reviewer**: NeurIPS 2026, ACL ARR 2026
+- **Artifact Evaluation Reviewer**: MICRO 2026
+
+---
 
 ## 🏆 Honors & Awards
 - **ARIA PhD Scholarship**, Imperial College London (£22,780/year, *2025–2028*)  

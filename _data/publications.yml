@@ -1,4 +1,5 @@
 - title: "DeepStack: Facilitating Co-Design Exploration of 3D DRAM-Stacked Accelerators for Distributed LLM Inference"
+  code_url: "https://github.com/tile-ai/DeepStack/tree/main"
   venue_short: "MICRO"
   venue_full: 'The 59th IEEE/ACM International Symposium on Microarchitecture (MICRO''26), 2026; <a href="https://arxiv.org/abs/2604.04750">arXiv:2604.04750</a>'
   authors: "<strong>Zhiwen Mo</strong>, Guoyu Li, Hao (Mark) Chen, Yu Cheng, Zhengju Tang, Qianzhou Wang, Lei Wang, Shuang Liang, Lingxiao Ma, Xianqi Zhou, Yuxiao Guo, Wayne Luk, Jilong Xue, Hongxiang Fan"
@@ -6,6 +7,7 @@
   featured: true
 
 - title: "LUT Tensor Core: A Software-Hardware Co-Design for LUT-Based Low-Bit LLM Inference"
+  code_url: "https://github.com/microsoft/T-MAC/tree/LUTTensorCore_ISCA25"
   venue_short: "ISCA"
   venue_full: "The 52nd International Symposium on Computer Architecture (ISCA'25), 2025"
   authors: "<strong>Zhiwen Mo</strong>, Lei Wang, Jianyu Wei, Zhichen Zeng, Shijie Cao, Lingxiao Ma, Naifeng Jing, Ting Cao, Jilong Xue, Fan Yang, Mao Yang"
@@ -13,6 +15,7 @@
   featured: true
 
 - title: "TileSight: A First-Principles Tile-Centric Analytical GPU Performance Model from Cores to Clusters"
+  code_url: "https://github.com/tile-ai/TileSight"
   venue_short: "arXiv"
   venue_full: 'arXiv preprint <a href="http://arxiv.org/abs/2607.22432">arXiv:2607.22432</a>, 2026'
   authors: "<strong>Zhiwen Mo</strong>, Yu Cheng, Lei Wang, Zhengju Tang, Lei Xu, Guoyu Li, Yuqi Dong, Lingxiao Ma, Yuqing Xia, Jilong Xue, Fan Yang, Luo Mai, Zhi Yang, Wayne Luk, Hongxiang Fan"
@@ -20,6 +23,7 @@
   featured: true
 
 - title: "TileScale: Tile Compute across Nested Hardware Scales"
+  code_url: "https://github.com/tile-ai/tilescale"
   venue_short: "EuroSys"
   venue_full: "The 22nd European Conference on Computer Systems (EuroSys'27), 2027"
   authors: "Yu Cheng, Cunxiao Ni, Zhejin Xu, Tong Wu, Zhengju Tang, <strong>Zhiwen Mo</strong>, Lei Wang, Yuqing Xia, Youshan Miao, Lingxiao Ma, Jilong Xue, Fan Yang, Zhi Yang"
@@ -27,6 +31,7 @@
   featured: true
 
 - title: "TileLang: A Composable Tiled Programming Model for AI Systems"
+  code_url: "https://github.com/tile-ai/tilelang"
   venue_short: "ICLR \nOral" 
   venue_full: "The Fourteenth International Conference on Learning Representations (ICLR'26 <strong>Oral</strong>), 2026"
   authors: "Lei Wang, Yu Cheng, Yining Shi, <strong>Zhiwen Mo</strong>, Zhengju Tang, Wenhao Xie, Tong Wu, Lingxiao Ma, Yuqing Xia, Jilong Xue, Fan Yang, Zhi Yang"
