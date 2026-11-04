@@ -38,6 +38,13 @@
   year: 2026
   featured: true
 
+- title: "Torbus: Compiling Collective Communication for Heterogeneous Logical Torus"
+  venue_short: "HPCA"
+  venue_full: "The 33rd IEEE International Symposium on High-Performance Computer Architecture (HPCA'27), 2027"
+  authors: "Zhengju Tang, <strong>Zhiwen Mo</strong>, Yu Cheng, Mingyuan Ma, Tong Wu, Yuxiao Guo, Lingxiao Ma, Yuqing Xia, Jilong Xue, Hongxiang Fan, Zhi Yang"
+  year: 2027
+  featured: true
+
 - title: "Democratizing Agentic AI with Fast Test-Time Scaling on the Edge"
   venue_short: "ASPLOS"
   venue_full: "The31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'26), 2026"
